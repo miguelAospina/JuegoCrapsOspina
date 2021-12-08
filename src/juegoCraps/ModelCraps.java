@@ -106,7 +106,7 @@ public class ModelCraps {
                     break;
 
             case 3: estadoToString[0] = "Tiro de Salida = "+tiro+"\nPunto = "+punto;
-                    estadoToString[1] = "Estableciste punto en "+punto+" Sigue intentando"+
+                    estadoToString[1] = "\nEstableciste punto en "+punto+" Sigue intentando"+
                                      "\n ADVERTENCIA: si sacas 7 antes que " +punto+ " perderás";
                     break;
 

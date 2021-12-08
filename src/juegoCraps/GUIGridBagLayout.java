@@ -52,6 +52,7 @@ public class GUIGridBagLayout extends JFrame {
         constraints.fill = GridBagConstraints.HORIZONTAL;
         this.add(headerProject,constraints);
 
+        //Set up boton ayuda
         ayuda = new JButton(" ? ");
         ayuda.addActionListener(escucha);
         constraints.gridx = 0;
@@ -61,6 +62,7 @@ public class GUIGridBagLayout extends JFrame {
         constraints.anchor = GridBagConstraints.LINE_START;
         this.add(ayuda,constraints);
 
+        //Set up boton salir
         salir = new JButton("salir");
         salir.addActionListener(escucha);
         constraints.gridx = 1;
