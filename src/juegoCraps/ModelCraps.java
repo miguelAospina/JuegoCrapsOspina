@@ -117,7 +117,7 @@ public class ModelCraps {
 
             case 5: estadoToString[0] = "Tiro de Salida = "+punto+"\nPunto = "+punto
                                         +"\nValor del nuevo tiro = "+tiro;
-                    estadoToString[1] = "Sacaste 7 antes que "+punto+" perdiste!!"+"\n :(";
+                    estadoToString[1] = "Sacaste 7 antes que "+punto+" perdiste!!!"+"\n :(";
                     break;
 
             case 6: estadoToString[0] = "Tiro de Salida = "+punto+"\nPunto = "+punto
