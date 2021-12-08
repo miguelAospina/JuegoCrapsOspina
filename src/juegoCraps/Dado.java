@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  * Class dado generate a Random value between 1 and 6
- * @author Miguel Ospina
+ * @author Miguel Ángel Ospina Hernández
  * @version 1.0.0 date 04/12/2021
  */
 
